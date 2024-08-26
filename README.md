@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a463f839-8729-4aec-a819-b1236b38ddf4)# Portfolio - Luiz Carlos
+# Portfolio - Luiz Carlos
 
 <p align='center'>Apresentação simples da aula pratica de Fundamentos da Programação Web do curso de Análise e Desenvolvimento de Sistemas do Centro universitário - UNINTER </p>
 
